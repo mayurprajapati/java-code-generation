@@ -1,0 +1,1 @@
+This is a final output of Medium Article [Automating Java Code Generation, Git, and GitLab Merge Requests using Java](https://medium.com/@mayurengineer/automating-java-code-generation-git-and-gitlab-merge-requests-using-java-1e11f1a4bf45)
